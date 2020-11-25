@@ -1,2 +1,2 @@
 # Eduino
-An ATmega32U4 breakout board 
+Another ATmega32U4 breakout board 
